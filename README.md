@@ -1,5 +1,5 @@
  Oi, meu nome é Alexssander Meirelles 
-Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprendizado e evolução. Atualmente venho estudando na Faculdade e por fora aplicando meus conhecimentos em JavaScript, HTML, CSS, Python e Julia
+Estudante de Análise e Desenvolvimento. Entusiasta de programação, embora não tenha tantos projetos sigo estudando e vendo conteúdos novos! Por fora aplicando meus conhecimentos em JavaScript, HTML, CSS, Python e Julia
 
 ## Redes Socials:
 
