@@ -1,4 +1,4 @@
- Oi, meu nome é Alexssander Meirelles actions
+ Oi, meu nome é Alexssander Meirelles 
 Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprendizado e evolução. Atualmente venho estudando na Faculdade e por fora aplicando meus conhecimentos em JavaScript, HTML, CSS, Python e Julia
 
 ## Redes Socials:
