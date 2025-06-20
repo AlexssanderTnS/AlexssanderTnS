@@ -1,10 +1,7 @@
- Oi, meu nome é Alexssander Meirelles actions
-Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprendizado e evolução. Atualmente venho estudando na Faculdade e por fora aplicando meus conhecimentos em PHP, JavaScript, HTML, CSS, NEXT, TAILWIND.
+ Oi, meu nome é Alexssander Meirelles
+Sou um entusiasta da tecnologia e desenvolvimento web, sempre em busca de aprendizado e evolução. Atualmente venho estudando na Faculdade e por fora aplicando meus conhecimentos em JavaScript, HTML, CSS, Python e Julia
 
-💬 Estou aberto a colaborações, dicas, feedbacks e novas conexões!
-Se quiser bater um papo sobre desenvolvimento, trocar ideias ou até mesmo colaborar em algo, é só me chamar!
-
-## 🌐 Socials:
+## Redes Socials:
 
 <div style="text-align: center;">
     <a href="https://www.instagram.com/aleexs2_">
@@ -15,7 +12,7 @@ Se quiser bater um papo sobre desenvolvimento, trocar ideias ou até mesmo colab
     </a>
 </div>
 
-## 🚀 Minhas Skills
+## Minhas Habilidades
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
