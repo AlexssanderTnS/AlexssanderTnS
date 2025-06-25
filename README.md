@@ -22,5 +22,6 @@ Veja meu site: https://empreendaja.ibap-rj.org.br/
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" alt="Julia"/></code>
 
+![snake gif](https://github.com/AlexssanderTnS/AlexssanderTnS/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAlexssanderTnS-dev&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
