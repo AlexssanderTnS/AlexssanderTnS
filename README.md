@@ -26,4 +26,5 @@ Veja meu site: https://empreendaja.ibap-rj.org.br/
 
 ![snake gif](https://raw.githubusercontent.com/AlexssanderTnS/AlexssanderTnS/output/dist/github-contribution-grid-snake.svg)
 
+
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAlexssanderTnS-dev&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
