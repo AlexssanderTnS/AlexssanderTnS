@@ -1,5 +1,5 @@
  Oi, meu nome é Alexssander Meirelles 
-Estudante de Análise e Desenvolvimento. Entusiasta de programação, embora não tenha tantos projetos sigo estudando e vendo conteúdos novos! Por fora aplicando meus conhecimentos em JavaScript, HTML, CSS e Python 
+Estudante de Análise e Desenvolvimento. Entusiasta de programação, embora não tenha tantos projetos, sigo estudando e vendo conteúdos novos! Por fora aplicando meus conhecimentos em JavaScript, HTML, CSS e Python 
 
 Veja meu atual site em desenvolvimento: http://ibap-educa.vercel.app/
 ## Redes Socials:
