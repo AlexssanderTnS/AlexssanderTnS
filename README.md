@@ -1,27 +1,55 @@
- Oi, meu nome é Alexssander Meirelles 
-Estudante de Análise e Desenvolvimento. Entusiasta de programação, embora não tenha tantos projetos, sigo estudando e vendo conteúdos novos! Por fora aplicando meus conhecimentos em JavaScript, HTML, CSS e Python 
+<h3 align="center">Hey, how's it going? My name is Alexssander, and I'm a Systems Analysis and Development student. I explore many different languages ​​and models to see where I fit best. Come follow my journey!</h3>
 
-Veja meu atual site em desenvolvimento: http://ibap-educa.vercel.app/
-## Redes Socials:
+###
 
-<div style="text-align: center;">
-    <a href="https://www.instagram.com/aleexs2_">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/alexssander-meirelles-a93a6922b/">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexssanderTnS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## Minhas Habilidades
+###
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" alt="Julia"/></code>
+<img align="left" height="148" src="https://media2.giphy.com/media/3YsEPo1u3C8dW/giphy.gif"  />
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-plain.svg" height="30" alt="moodle logo"  />
+</div>
 
+###
 
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAlexssanderTnS-dev&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AlexssanderTnS/AlexssanderTnS/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexssanderTnS.AlexssanderTnS&"  />
+</div>
+
+###
