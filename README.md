@@ -1,5 +1,5 @@
-<h3 align="center">Hey, how's it going? My name is Alexssander, and I'm a Systems Analysis and Development student. I explore many different languages ​​and models to see where I fit best. Come follow my journey!</h3>
-
+<h3 align="center">Hey, how's it going? My name is Alexssander, and I'm a Systems Analysis and Development student. I explore many different languages ​​and models to see where I fit best.</h3>
+<h2 align="center">Currently developing a statistics generator around F1. It will be my main project.</h2>
 ###
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="end">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
