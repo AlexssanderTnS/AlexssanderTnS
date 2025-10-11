@@ -5,7 +5,7 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexssandertns&theme=slateorange" alt="GitHub stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexssanderTnS&theme=slateorange" alt="GitHub stats">
 
   <a href="https://github.com/mari4souza/github-readme-stats">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexssanderTnS&theme=slateorange" alt="Most Used Languages">
