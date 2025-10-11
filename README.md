@@ -2,8 +2,14 @@
 <h2 align="center">Currently developing a statistics generator around F1. It will be my main project.</h2>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexssanderTnS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexssanderTnS&theme=slateorange" alt="GitHub stats">
+
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexssanderTnS&theme=slateorange" alt="Most Used Languages">
+  </a>
 </div>
 
 ###
@@ -25,8 +31,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-plain.svg" height="30" alt="moodle logo"  />
