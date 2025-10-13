@@ -1,5 +1,5 @@
 <h3 align="center">Hey, how's it going? My name is Alexssander, and I'm a Systems Analysis and Development student. I explore many different languages ​​and models to see where I fit best.</h3>
-<h2 align="center">Currently developing a statistics generator around F1. It will be my main project.</h2>
+<h2 align="center">Currently creating a login and user system for the EmpreendaJá repository</h2>
 
 
 <div style="text-align: center;" align="center">
