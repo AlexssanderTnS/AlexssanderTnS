@@ -1,5 +1,5 @@
 <h3 align="center">Olá me chamo Alexssander e atualmente sou aluno de Análise e Desenvolvimento de Sistemas</h3>
-<h2 align="center">Currently creating a login and user system for the EmpreendaJá repository</h2>
+<h2 align="center">Atualmente me aventurando no mundo de Inteligências Artificiais, criando uma para atuação acadêmica e outra para o RPG Ordem Paranormal do Cellbit</h2>
 
 
 <div style="text-align: center;" align="center">
