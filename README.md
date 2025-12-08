@@ -1,5 +1,5 @@
 <h3 align="center">Olá me chamo Alexssander e atualmente sou aluno de Análise e Desenvolvimento de Sistemas</h3>
-<h2 align="center">Atualmente me aventurando no mundo de Inteligências Artificiais, criando uma para atuação acadêmica e outra para o RPG Ordem Paranormal do Cellbit</h2>
+<h2 align="center">Me aventurando no mundo de Inteligências Artificiais, criei uma para atuação de suporte acadêmico baseada em RAG e LLM para servir de apoio para os alunos de determinado curso, sendo uma companheira prestativa nos estudos ou apenas uma fonte de consulta do material disponibilizado . Agora criando uma para um dos meu passatempos que será para o RPG Ordem Paranormal criado pelo Cellbit, ela servira para ajudar jogadores a criar fichas, entender mecânicas e instruções dos guias, livro de regras ou até mesmo para conhecer mais esse mundo fictício </h2>
 
 
 <div style="text-align: center;" align="center">
@@ -35,7 +35,11 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-plain.svg" height="30" alt="moodle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
