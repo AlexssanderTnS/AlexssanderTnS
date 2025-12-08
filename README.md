@@ -1,5 +1,5 @@
 <h3 align="center">Olá me chamo Alexssander e atualmente sou aluno de Análise e Desenvolvimento de Sistemas</h3>
-<h2 align="justify">Me aventurando no mundo de Inteligências Artificiais, criei uma para atuação de suporte acadêmico baseada em RAG e LLM para servir de apoio para os alunos de determinado curso, sendo uma companheira prestativa nos estudos ou apenas uma fonte de consulta do material disponibilizado . Agora criando uma para um dos meu passatempos que será para o RPG Ordem Paranormal criado pelo Cellbit, ela servira para ajudar jogadores a criar fichas, entender mecânicas e instruções dos guias, livro de regras ou até mesmo para conhecer mais esse mundo fictício </h2>
+<h2 align="justify">Me aventurando no mundo de Inteligências Artificiais, criei uma para atuação de suporte acadêmico baseada em RAG e LLM para servir de apoio para os alunos de determinado curso, sendo uma companheira prestativa nos estudos ou apenas uma fonte de consulta do material disponibilizado. Agora criando uma para um dos meus passatempos que será para o RPG Ordem Paranormal criado pelo Cellbit, ela servirá para ajudar jogadores a criar fichas, entender mecânicas, instruções dos guias, livro de regras ou até mesmo para conhecer mais esse mundo fictício </h2>
 
 
 <div style="text-align: center;" align="center">
