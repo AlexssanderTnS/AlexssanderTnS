@@ -1,20 +1,18 @@
-Desenvolvedor em formação focado em Análise e Desenvolvimento de Sistemas, com interesse em criar soluções que conectam tecnologia, conhecimento e impacto real.
+Olá! Sou o Alexssander 
 
-Atualmente estudando e desenvolvendo projetos com:
+Desenvolvedor web e estudante de Análise e Desenvolvimento de Sistemas. Trabalho na construção de sites e aplicações, participando do planejamento, desenvolvimento e publicação dos projetos.
 
-• Desenvolvimento Web (HTML, CSS, JavaScript e Bootstrap)  
-• Integração de APIs e consumo de dados externos  
-• Python aplicado a automação e inteligência artificial  
-• Criação de aplicações com foco em educação e acesso à informação  
-• Estruturação de projetos completos, do conceito à implementação  
+Tenho experiência prática com projetos institucionais e educacionais, desenvolvendo interfaces, funcionalidades de back-end e integrações entre sistemas. Meu trabalho inclui cadastro e autenticação de usuários, pagamentos online e integração com plataformas de ensino, como o Moodle.
 
-Tenho interesse especial em projetos que envolvam:
+Tecnologias e ferramentas que utilizo:
 
-Educação e tecnologia  
-Visualização e organização de dados  
-Aplicações web interativas  
-Inteligência Artificial aplicada  
+HTML, CSS e JavaScript
+PHP e MySQL
+Git e GitHub
+APIs e integração com serviços externos
 
-Meu objetivo é evoluir como desenvolvedor, construir projetos relevantes e futuramente trabalhar com tecnologia em nível global.
+Gosto de entender como as partes de uma aplicação se conectam: da interface que o usuário acessa às regras de negócio e aos dados que sustentam seu funcionamento.
 
-Sempre aprendendo.
+Também estou aprofundando meus estudos em Python, inteligência artificial aplicada e infraestrutura em nuvem, com interesse em desenvolver soluções voltadas à educação, à organização do conhecimento e à automação de tarefas.
+
+Por aqui, compartilho projetos, experimentos e minha evolução como desenvolvedor.
